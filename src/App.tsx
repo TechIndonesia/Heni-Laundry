@@ -34,7 +34,7 @@ const CLOTHES_SERVICES = [
   },
   {
     nama: "Laundry Kilat / Express",
-    harga: "Rp 5.000 - Rp 10.000 /kg",
+    harga: "Rp 8.000 - Rp 10.000 /kg",
     deskripsi: "Cepat dan bersih. Tersedia layanan hitungan jam.",
     durasi: "Selesai 1 hari hingga hitungan jam",
     highlight: true,
