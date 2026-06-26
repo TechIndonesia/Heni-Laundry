@@ -36,16 +36,16 @@ export const CATEGORIES: Category[] = [
       {
         name: "Cuci Kering + Setrika (Reguler)",
         estimate: "Estimasi selesai 2–3 hari",
-        price: "Rp 6.000 – Rp 8.000 / kg",
+        price: "Rp 5.000 – Rp 8.000 / kg",
       },
       {
         name: "Cuci Kering Saja",
-        price: "Rp 5.000 – Rp 6.000 / kg",
+        price: "Rp 1.000 – Rp 2.000 / kg",
       },
       {
         name: "Laundry Kilat / Express",
         estimate: "Selesai 1 hari hingga hitungan jam",
-        price: "Rp 10.000 – Rp 16.000 / kg",
+        price: "Rp 8.000 – Rp 10.000 / kg",
       },
     ],
   },
