@@ -20,21 +20,21 @@ function waLink(wa: string, nama?: string) {
 const CLOTHES_SERVICES = [
   {
     nama: "Cuci Kering + Setrika (Reguler)",
-    harga: "Rp 6.000 - Rp 8.000 /kg",
+    harga: "Rp 5000 - Rp 8.000 /kg",
     deskripsi: "Pakaian bersih, wangi, dan rapi siap pakai.",
     durasi: "Estimasi selesai 2-3 hari",
     highlight: false,
   },
   {
     nama: "Cuci Kering Saja",
-    harga: "Rp 5.000 - Rp 6.000 /kg",
+    harga: "Rp 1.000 - Rp 2.000 /kg",
     deskripsi: "Hanya dicuci dan dikeringkan, tanpa disetrika.",
     durasi: "Estimasi selesai 2-3 hari",
     highlight: false,
   },
   {
     nama: "Laundry Kilat / Express",
-    harga: "Rp 10.000 - Rp 16.000 /kg",
+    harga: "Rp 5.000 - Rp 10.000 /kg",
     deskripsi: "Cepat dan bersih. Tersedia layanan hitungan jam.",
     durasi: "Selesai 1 hari hingga hitungan jam",
     highlight: true,
